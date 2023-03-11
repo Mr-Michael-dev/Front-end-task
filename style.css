@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+    font-size: 20px;
+}
+
+fieldset {
+    width: 200px;
+    margin: 0 auto;
+    border-color: azure;
+}
+
+#name,
+#email,
+#password,
+#phone {
+    padding: 0.35cm 0.5rem;
+    border-color: azure;
+    font-size: 16px;
+}
+
+#submit {
+    padding: 1rem;
+}
