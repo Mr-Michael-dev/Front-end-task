@@ -1,5 +1,8 @@
 body {
-    background-color: aliceblue;
+    /*background-color: aliceblue;*/
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9E69AxPbVBFEgtEVsSVZOASVV0IEwE9rMWQ&s);
+    background-size: cover;
+    background-repeat: no-repeat;
     font-size: 20px;
 }
 
@@ -14,7 +17,8 @@ fieldset {
 #password,
 #phone {
     padding: 0.35cm 0.5rem;
-    border-color: azure;
+    border:none;
+    border-radius: 2px;
     font-size: 16px;
 }
 
