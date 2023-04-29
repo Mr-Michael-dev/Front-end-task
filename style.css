@@ -1,9 +1,10 @@
 body {
-    /*background-color: aliceblue;*/
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9E69AxPbVBFEgtEVsSVZOASVV0IEwE9rMWQ&s);
+    color: whitesmoke;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1LWiD9q0lfB-6vGm_p4qzie-2TjwIygbGoA&usqp=CAU);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 20px;
+    height: 100vh;
 }
 
 fieldset {
@@ -18,9 +19,28 @@ fieldset {
 #phone {
     padding: 0.35cm 0.5rem;
     border:none;
-    border-radius: 2px;
+    border-radius: 4px;
     font-size: 16px;
 }
+
+button{
+        border: none;
+            border-radius: 20px;
+                width: 150px;
+                    font-size: 20px;
+                        line-height: 25px;
+                            padding: 10px;
+                                cursor: pointer;
+                                }
+
+                                button:hover{
+                                    background: black;
+                                        color: white;
+                                }
+::placeholder{
+        color: white;
+            opacity: 0.8;
+            }
 
 #submit {
     padding: 1rem;
