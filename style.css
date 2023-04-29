@@ -19,16 +19,16 @@ fieldset {
 #phone {
     padding: 0.35cm 0.5rem;
     border:none;
-    border-radius: 4px;
+    border-radius: 25px;
     font-size: 16px;
 }
 
 button{
         border: none;
             border-radius: 20px;
-                width: 150px;
+                width: 100px;
                     font-size: 20px;
-                        line-height: 25px;
+                        line-height: 10px;
                             padding: 10px;
                                 cursor: pointer;
                                 }
@@ -38,7 +38,7 @@ button{
                                         color: white;
                                 }
 ::placeholder{
-        color: white;
+        color: Black;
             opacity: 0.8;
             }
 
