@@ -3,12 +3,12 @@ body {
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1LWiD9q0lfB-6vGm_p4qzie-2TjwIygbGoA&usqp=CAU);
     background-size: cover;
     background-repeat: no-repeat;
-    font-size: 20px;
+    font-size: 16px;
     height: 100vh;
 }
 
 fieldset {
-    width: 150px;
+    width: 200px;
     margin: 0 auto;
     border-color: azure;
 }
@@ -20,7 +20,7 @@ fieldset {
     padding: 0.35cm 0.5rem;
     border:none;
     border-radius: 20px;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 button{
