@@ -45,3 +45,8 @@ button{
 #submit {
     padding: 1rem;
 }
+footer{
+        padding: 5px;
+        font: 10px;
+        text-align: center;
+            }
